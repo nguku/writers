@@ -1,3 +1,6 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -26,7 +29,6 @@
 											<li><a href="index.html">Home</a></li>
 											<li><a href="generic.html">About</a></li>
 											<li><a href="elements.html">Price</a></li>
-											<li><a href="form.html">order</a></li>
 											<li><a href="#">Sign Up</a></li>
 											<li><a href="#">Log In</a></li>
 										</ul>
@@ -44,7 +46,7 @@
 							24/7 custom essay writing services<br />
 							crafted to your <a href="#">SPECIFICATIONS</a>.</p>
 							<ul class="actions">
-								<li><a href="form.html" class="button special">Order Now!</a></li>
+								<li><a href="#" class="button special">Order Now!</a></li>
 							</ul>
 						</div>
 						<a href="#one" class="more scrolly">Learn More</a>
